@@ -1,6 +1,6 @@
 # RPS-Dissector
 ## Preface
-I have defined my own simple Rock paper Scissors (RPS) Protocol for a Reading Course. This protocol is defined in my (rough) spec document `RPS-Specification.md`.
+I have defined my own simple Rock Paper Scissors (RPS) Protocol for a Reading Course. This protocol is defined in my (rough) spec document `RPS-Specification.md`.
 
 I have a small Pyhton script `pkts.py` that generates fake packets using Pythons Scapy.
 
